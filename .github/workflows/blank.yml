@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: ppppp@gmail.com
+    - name: 24f1002555@ds.study.iitm.ac.in
       uses: actions/checkout@v3
 
     - name: Step with Email
